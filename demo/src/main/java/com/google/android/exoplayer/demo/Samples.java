@@ -144,6 +144,7 @@ import java.util.Locale;
     new Sample("Google Play (MP3 Audio)",
         "http://storage.googleapis.com/exoplayer-test-media-0/play.mp3",
         DemoUtil.TYPE_MP3),
+    new Sample("WRLN AAC", "http://stream.wlrn.mobi/WLRNFMAAC32", DemoUtil.TYPE_AAC)
   };
 
   private Samples() {}
